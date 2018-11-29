@@ -6,7 +6,7 @@ steps{
 echo "Hello Branch1"
 script{
 
-sh "java --version"
+sh "java -version"
 
 
 
