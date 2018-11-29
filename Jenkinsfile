@@ -4,6 +4,14 @@ stages{
 stage('Hello World'){
 steps{
 echo "Hello Branch1"
+script{
+
+sh"javac"
+
+
+
+
+}
 }
 }
 }
